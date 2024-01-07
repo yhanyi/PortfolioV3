@@ -19,11 +19,16 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio facilisis mauris sit amet. Quis varius quam quisque id diam vel quam elementum. Feugiat in fermentum posuere urna nec tincidunt praesent. Euismod elementum nisi quis eleifend. At volutpat diam ut venenatis tellus in metus vulputate. Libero volutpat sed cras ornare arcu dui vivamus. Netus et malesuada fames ac turpis egestas integer eget. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus pretium quam vulputate dignissim. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere.
-            </p>
-            <p>
-            Ac placerat vestibulum lectus mauris ultrices. Mauris nunc congue nisi vitae suscipit tellus. Ipsum dolor sit amet consectetur adipiscing elit. Volutpat commodo sed egestas egestas fringilla. Eget lorem dolor sed viverra. Morbi tristique senectus et netus et. Mi quis hendrerit dolor magna. Convallis posuere morbi leo urna molestie. Sit amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Dui vivamus arcu felis bibendum ut tristique. Vitae tempus quam pellentesque nec nam aliquam sem et.
-            </p>
+        Hi, I&apos;m Yeoh Han Yi, a Computer Science major with a second major
+        in Statistics at the National University of Singapore, currently
+        navigating the second semester of my freshman year.
+      </p>
+      <p>
+        Undecided on a specialization as of now, I&apos;m currently exploring
+        various fields, especially machine learning, full-stack development and
+        software engineering. This eclectic approach allows me to discover where
+        my interests and strengths lie.
+      </p>
     </motion.section>
   );
 }
