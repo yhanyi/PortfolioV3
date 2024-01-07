@@ -1,6 +1,6 @@
-# React Portfolio Website (Version 2)
+# Portfolio Version 3
 
-Deployed on Vercel at https://yeohhanyi-v2.vercel.app/.
+Deployed on Vercel at https://yeohhanyi.vercel.app/.
 
 Built while following a tutorial to learn TypeScript and get more comfortable with hooks, providers and learning to abstract functionality while being aware of the project structure.
 
